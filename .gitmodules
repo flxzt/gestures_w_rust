@@ -1,0 +1,6 @@
+[submodule "tinyusb"]
+	path = tinyusb
+	url = https://github.com/hathach/tinyusb
+[submodule "wave"]
+	path = wave
+	url = git@github.com:flxzt/wave.git
